@@ -118,7 +118,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Stonney&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Stonney&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=300" 
     width="60%" 
   />
 </p>
